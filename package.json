@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GosWoj/simple-server-nodejs.git"
+    "url": "git+https://github.com/GosWoj/server-expressjs"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "Gosia Wojcik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GosWoj/simple-server-nodejs/issues"
+    "url": "https://github.com/GosWoj/server-expressjs/issues"
   },
-  "homepage": "https://github.com/GosWoj/simple-server-nodejs#readme",
+  "homepage": "https://github.com/GosWoj/server-expressjs#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
